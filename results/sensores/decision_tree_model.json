@@ -1,0 +1,1 @@
+{"classes": ["fotorresistencia_data.csv", "sensorProximidad_data.csv", "sensorSonido_data.csv", "termistor_data.csv"], "feature_names": ["Mean Distance", "Std Deviation"], "thresholds": [1272.7117004394531, 228.5242213010788, -2.0, -2.0, 610.6724090576172, -2.0, -2.0], "features": [0, 1, -2, -2, 1, -2, -2]}
